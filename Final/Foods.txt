@@ -1,0 +1,7 @@
+Saturday 1 KareMoraba 6500 2 Stamboli 7000 3 Shinsel 10000
+Sunday 4 NunoPanir 6500 5 QormeSabzi 7000 6 Pasta 10000
+Monday 7 HalvaArde 6500 8 BerenjoMorgh 11500 9 Makaroni 7000
+Tuesday 10 KareAsal 6500 11 JujeKabab 11500 12 PoloAdas 7000
+Wedmesday 13 TokhmMorgh 6500 14 PoloShevidoTonMahi 11500 15 Kabab 10000
+Thursday 16 ShiroKhorma 6500 17 LobiyaPolo 15000 18 --- 0
+Friday 19 --- 0 20 --- 0 21 --- 0
